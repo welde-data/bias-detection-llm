@@ -213,3 +213,10 @@ Occupational stereotypes persist through **trait attribution**. Agentic descript
 
 **Conclusion**  
 Lexical constraints alone are insufficient to ensure neutrality. Achieving meaningful neutrality requires interventions that address the **semantic framing and attribute distributions** associated with professional roles, not merely the filtering of individual words.
+
+## 👥 Contributors 
+
+This miniproject is part of AI & Data Science Bootcamp training at **`</becode>`** and it was done by: 
+
+- Welederufeal Tadege [LinkedIn](https://www.linkedin.com/in/) | [Github](https://github.com/welde2001-bot) 
+under the supervision of AI & data science coach ***Vanessa Rivera Quinones***
